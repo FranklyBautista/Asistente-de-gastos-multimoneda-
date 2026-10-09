@@ -1,0 +1,1 @@
+-- Esquema inicial: se completa en la Fase 1 (ver Diseño técnico en Notion).

@@ -1,0 +1,1 @@
+"""Tasa del peso colombiano."""
