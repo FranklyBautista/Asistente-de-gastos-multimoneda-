@@ -1,0 +1,1 @@
+-- Categorías globales y cuentas por defecto para desarrollo (Fase 1).
